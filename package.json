@@ -1,0 +1,25 @@
+{
+  "name": "react-native-directory",
+  "version": "1.0.0",
+  "description": "Custom the directory in Android applications.",
+  "main": "ChooseDirForAndroid.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonyouth/react-native-dirtory.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "android",
+    "directory"
+  ],
+  "author": "zhouyx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonyouth/react-native-dirtory/issues"
+  },
+  "homepage": "https://github.com/simonyouth/react-native-dirtory#readme"
+}
