@@ -2,5 +2,18 @@
 Custom dir according to requirements.(Only for Android)
 
 
-## Still in the test because of my poor experience.
-### If you want to help me,please contant qq:2515240522.Thanks!
+## Installing
+    npm install react-native-directory --save
+
+### No need to link
+
+## Usage
+    import ChooseDirForAndroid from 'react-native-directory'
+    
+    ....
+    ChooseForAndroid.choose()
+           .then((path)=>{..})
+           .catch((error)=>{...})
+   
+   
+   
